@@ -28,11 +28,11 @@ Follow these steps carefully to set up the project on your local machine:
 
 ```bash
 # Clone the repository to your local machine
-git clone https://github.com/your-username/umurage-platform.git
+git clone https://github.com/your-username/Umurage-platform.git
 
 # Navigate to the project directory
 cd umurage-platform
-```
+```env
 
 ### 2. Install Dependencies
 
@@ -60,7 +60,8 @@ npm run dev
 ```
 
 The application will start and be available at:
-- **Local**: http://localhost:3000/ (or another port if 3000 is in use)
+
+- **Local**: <http://localhost:3000/> (or another port if 3000 is in use)
 - **Network**: Available on your local network with an IP address (displayed in terminal)
 
 ### 5. Building for Production
@@ -117,4 +118,4 @@ If you encounter any issues during setup:
 
 ## License
 
-This project is for educational purposes only. 
+This project is for educational purposes only.

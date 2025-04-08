@@ -61,8 +61,8 @@ npm run dev
 
 The application will start and be available at:
 
-- **Local**: <http://localhost:3000/> (or another port if 3000 is in use)
-- **Network**: Available on your local network with an IP address (displayed in terminal)
+- **Local**: <http://localhost:3000/> / (<https://rptrdf3q-3000.inc1.devtunnels.ms/>)
+- **Network**: Available on your local network with an IP address (displayed in terminal) / <http://192.168.1.252:3000/>
 
 ### 5. Building for Production
 

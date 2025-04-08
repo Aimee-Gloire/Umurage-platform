@@ -50,7 +50,7 @@ Create a `.env` file in the root directory with the following contents:
 VITE_SUPABASE_URL=<https://xyjpbsktolnpjejzupdb.supabase.co>
 VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh5anBic2t0b2xucGplanp1cGRiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM1OTk3MTIsImV4cCI6MjA1OTE3NTcxMn0.p29MxYsWAFZshxDQU_Dq6o3iPHRYohkn5w_wQ_6ffFE
 
-``` text
+```
 
 **Note**: These are development credentials only. In a production environment, you would use your own Supabase credentials.
 
@@ -80,7 +80,7 @@ npm run preview
 
 The project follows a modular structure:
 
-``` text
+```
 src/
 ├── layouts/           # Layout components for student and teacher views
 ├── lib/               # Utility and service functions
